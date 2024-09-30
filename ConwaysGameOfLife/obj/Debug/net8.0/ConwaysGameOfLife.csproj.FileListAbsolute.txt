@@ -1,0 +1,14 @@
+C:\Users\jouon\RiderProjects\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\net8.0\ConwaysGameOfLife.exe
+C:\Users\jouon\RiderProjects\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\net8.0\ConwaysGameOfLife.deps.json
+C:\Users\jouon\RiderProjects\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\net8.0\ConwaysGameOfLife.runtimeconfig.json
+C:\Users\jouon\RiderProjects\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\net8.0\ConwaysGameOfLife.dll
+C:\Users\jouon\RiderProjects\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\net8.0\ConwaysGameOfLife.pdb
+C:\Users\jouon\RiderProjects\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\net8.0\ConwaysGameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jouon\RiderProjects\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\net8.0\ConwaysGameOfLife.AssemblyInfoInputs.cache
+C:\Users\jouon\RiderProjects\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\net8.0\ConwaysGameOfLife.AssemblyInfo.cs
+C:\Users\jouon\RiderProjects\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\net8.0\ConwaysGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\jouon\RiderProjects\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\net8.0\ConwaysGameOfLife.dll
+C:\Users\jouon\RiderProjects\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\net8.0\refint\ConwaysGameOfLife.dll
+C:\Users\jouon\RiderProjects\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\net8.0\ConwaysGameOfLife.pdb
+C:\Users\jouon\RiderProjects\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\net8.0\ConwaysGameOfLife.genruntimeconfig.cache
+C:\Users\jouon\RiderProjects\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\net8.0\ref\ConwaysGameOfLife.dll
